@@ -12,6 +12,6 @@ def multiply(a, b):
 
 if __name__ == '__main__' :
     a = 1
-    b = 2
+    b = 5
     c = add(a, b)
     print(c)
