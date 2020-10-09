@@ -10,6 +10,10 @@ def multiply(a, b):
     answer = a * b
     return answer
 
+def divide(a, b):
+    answer = a/b
+    return answer
+
 if __name__ == '__main__' :
     a = 1
     b = 5
