@@ -13,4 +13,4 @@ def test_divide():
     a = 10
     b = 2
     answer = divide(a, b)
-    assert  expected == answer
+    assert expected == answer
